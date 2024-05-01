@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Calendar Application//EN
+BEGIN:VEVENT
+UID:20240525T143000-ouistreham-marriage
+DTSTAMP:20230501T000000Z
+DTSTART:20240525T143000
+DTEND:20240525T160000
+SUMMARY:Mariage à l'Église Saint-Samson
+DESCRIPTION:Nous sommes heureux de vous inviter à notre mariage qui se tiendra à l'Église Saint-Samson. Merci de nous rejoindre pour célébrer cet événement spécial.
+LOCATION:Église Saint-Samson, Pl. Albert Lemarignier, 14150 Ouistreham, France
+END:VEVENT
+END:VCALENDAR
